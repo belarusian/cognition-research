@@ -1,0 +1,2627 @@
+WEBVTT
+
+00:00.000 --> 00:01.740
+So I want you to imagine something for a second.
+
+00:02.240 --> 00:09.140
+Imagine trying to guess, like, the exact weather conditions on the day someone was born just
+
+00:09.140 --> 00:11.280
+by watching how they stir their coffee today.
+
+00:11.420 --> 00:13.960
+Right, which sounds completely ridiculous.
+
+00:14.120 --> 00:14.440
+Exactly.
+
+00:14.620 --> 00:20.180
+I mean, if they swirl it clockwise, maybe it was raining, or if they tap the spoon twice,
+
+00:20.300 --> 00:21.080
+maybe it was a Tuesday.
+
+00:21.400 --> 00:23.040
+It sounds completely absurd.
+
+00:23.340 --> 00:24.820
+The connection is totally severed.
+
+00:24.960 --> 00:26.120
+Yeah, the time has passed.
+
+00:26.200 --> 00:28.260
+Those original variables are just, they're gone.
+
+00:28.400 --> 00:28.600
+Right.
+
+00:28.600 --> 00:33.060
+But the crazy thing is, that is essentially what astrophysicists are doing with galaxies
+
+00:33.060 --> 00:33.600
+right now.
+
+00:33.960 --> 00:39.980
+I mean, they're looking at how a massive, mature galaxy spins today, and they are using that
+
+00:39.980 --> 00:47.320
+rotation to read the invisible primordial gravitational environment from billions of years ago.
+
+00:47.440 --> 00:50.820
+And, well, the truly mind-bending part is that it's actually working.
+
+00:51.100 --> 00:54.160
+It's working, and that's our mission for this deep dive.
+
+00:54.160 --> 00:59.400
+We are welcoming you, the insanely curious listener, to a really heavy but fascinating
+
+00:59.400 --> 01:00.040
+topic today.
+
+01:00.120 --> 01:04.300
+Yeah, we are fundamentally rethinking what it means for the universe to, you know, hold
+
+01:04.300 --> 01:04.940
+on to a memory.
+
+01:05.260 --> 01:06.740
+So let's talk about the source material.
+
+01:07.160 --> 01:12.200
+We're grounding this deep dive in a 2026 paper by an independent researcher named Flyxion.
+
+01:12.820 --> 01:16.900
+It's called, uh, Primordial Distinctions in Cosmological Memory.
+
+01:16.900 --> 01:17.700
+That's right.
+
+01:18.280 --> 01:23.700
+And Flyxion builds this really profound theoretical framework on top of a landmark observational
+
+01:23.700 --> 01:25.880
+study led by Sheng and their colleagues.
+
+01:26.020 --> 01:28.640
+So Sheng's team brought the hard data, right?
+
+01:28.720 --> 01:29.120
+Exactly.
+
+01:29.520 --> 01:34.320
+They provided the actual astronomical measurements of these galaxies, and Flyxion steps back
+
+01:34.320 --> 01:40.140
+to ask, well, what does this discovery actually mean for the nature of information and time
+
+01:40.140 --> 01:40.960
+in the cosmos?
+
+01:40.960 --> 01:45.720
+And I want to promise you, the listener, right now we're dealing with some heavy astrophysics
+
+01:45.720 --> 01:45.960
+here.
+
+01:46.080 --> 01:49.620
+We've got tidal torque theory, advanced statistics, spectral mathematics.
+
+01:49.840 --> 01:50.740
+It gets deep.
+
+01:50.820 --> 01:51.580
+It gets very deep.
+
+01:51.880 --> 01:58.180
+But we're going to extract the most incredible aha moments without getting totally bogged down
+
+01:58.180 --> 01:58.640
+in the jargon.
+
+01:58.700 --> 01:59.600
+We're going to unpack it all.
+
+01:59.700 --> 01:59.960
+Definitely.
+
+02:00.200 --> 02:02.340
+So let's start with the hard data from Sheng's team.
+
+02:03.040 --> 02:07.580
+They looked at present-day galaxies and found this connection to their ancient pre-galactic
+
+02:07.580 --> 02:11.400
+seeds, right, the proto-halos.
+
+02:11.640 --> 02:12.560
+Yeah, the proto-halos.
+
+02:13.000 --> 02:16.960
+And they didn't just find like a vague hint of a connection.
+
+02:17.060 --> 02:17.200
+Right.
+
+02:17.240 --> 02:18.400
+It was a massive signal.
+
+02:18.540 --> 02:19.440
+Far from vague.
+
+02:19.440 --> 02:25.920
+They found a statistically recoverable relationship between a galaxy's present-day angular momentum,
+
+02:26.300 --> 02:31.160
+you know, its spin, and the primordial tidal field that acted upon its proto-halo.
+
+02:31.220 --> 02:33.820
+And the significance level on this was huge, wasn't it?
+
+02:33.820 --> 02:38.960
+It was quantified at a 7.0 sigma significance level in their fiducial analysis.
+
+02:39.200 --> 02:39.800
+Okay, hold on.
+
+02:39.920 --> 02:45.380
+For context, for those who might not follow statistical physics closely, 5 sigma is basically
+
+02:45.380 --> 02:46.840
+the gold standard in physics, right?
+
+02:46.880 --> 02:48.100
+Yeah, 5 sigma is massive.
+
+02:48.200 --> 02:48.360
+Right.
+
+02:48.600 --> 02:51.840
+If you hit 5 sigma, you get to hold a press conference and announce you've discovered
+
+02:51.840 --> 02:54.340
+a new particle or confirmed a major theory.
+
+02:54.860 --> 03:00.660
+The odds of a 5 sigma result being a random fluke are like 1 in 3.5 million.
+
+03:00.660 --> 03:01.220
+Exactly.
+
+03:01.460 --> 03:06.400
+So hitting 7 sigma, that means the signal is just undeniably mathematically real.
+
+03:06.860 --> 03:07.180
+Wow.
+
+03:07.560 --> 03:09.340
+Okay, but I have to play devil's advocate here.
+
+03:09.620 --> 03:13.700
+If I'm looking at a galaxy, I see this ancient, massive structure.
+
+03:14.440 --> 03:15.940
+Why wouldn't it remember its past?
+
+03:16.000 --> 03:17.120
+I mean, we remember ours.
+
+03:17.260 --> 03:18.560
+A fossil remembers a dinosaur.
+
+03:19.020 --> 03:21.480
+Why is this cosmic memory considered so impossible?
+
+03:21.880 --> 03:27.220
+Well, because comparing a galaxy to a fossil drastically understates the violence of a galaxy's
+
+03:27.220 --> 03:27.880
+life cycle.
+
+03:28.400 --> 03:30.140
+I mean, a fossil just sits in the dirt.
+
+03:30.140 --> 03:30.660
+True.
+
+03:30.980 --> 03:35.900
+A galaxy observed today is absolutely not in the material configuration from which it
+
+03:35.900 --> 03:36.200
+began.
+
+03:36.320 --> 03:36.940
+It's just not.
+
+03:37.700 --> 03:42.840
+To understand why this memory is so astonishing, you have to look at what actually happens to
+
+03:42.840 --> 03:49.900
+that initial blob of dark matter and primordial gas over, you know, billions of years.
+
+03:49.940 --> 03:51.200
+It gets pretty chaotic, right?
+
+03:51.440 --> 03:52.720
+Oh, it's incredibly violent.
+
+03:53.040 --> 03:54.880
+First, you have catastrophic shocking.
+
+03:54.880 --> 04:00.360
+As the gas collapses under gravity, it heats up to millions of degrees, then it cools, and
+
+04:00.360 --> 04:03.540
+then it fragments to form billions of individual stars.
+
+04:03.880 --> 04:06.520
+So the continuous cloud of gas is just destroyed.
+
+04:06.860 --> 04:11.100
+It's turned into billions of discrete burning points of light.
+
+04:11.220 --> 04:14.420
+That alone seems like it would scramble the original structure.
+
+04:14.580 --> 04:15.440
+And that is just the beginning.
+
+04:15.740 --> 04:19.020
+I mean, the entire structure is then reorganized by massive mergers.
+
+04:19.540 --> 04:21.120
+Galaxies do not live in isolation.
+
+04:21.300 --> 04:21.440
+Right.
+
+04:21.520 --> 04:22.900
+They crash into each other all the time.
+
+04:23.240 --> 04:23.740
+Exactly.
+
+04:24.420 --> 04:30.320
+When two galaxies collide, the gravitational tidal forces literally rip long trails of
+
+04:30.320 --> 04:32.320
+stars out of their original orbits.
+
+04:32.880 --> 04:36.000
+The dark matter halos undergo virialization.
+
+04:36.540 --> 04:37.100
+Virialization.
+
+04:37.220 --> 04:37.600
+What's that?
+
+04:37.600 --> 04:43.880
+It basically means they enter a state of chaotic, rapidly fluctuating gravitational equilibrium.
+
+04:44.280 --> 04:46.560
+It completely washes out their initial boundaries.
+
+04:46.720 --> 04:47.280
+Oh, wow.
+
+04:47.440 --> 04:47.640
+Okay.
+
+04:47.820 --> 04:50.020
+And on top of that, you have energetic feedback.
+
+04:50.460 --> 04:56.020
+You've got supermassive black holes at the center, igniting and blasting immense jets
+
+04:56.020 --> 04:57.200
+of radiation outward.
+
+04:57.420 --> 04:57.640
+Right.
+
+04:57.740 --> 04:58.480
+Like quasars.
+
+04:58.640 --> 04:58.960
+Yes.
+
+04:59.380 --> 05:05.380
+Plus, thousands of supernovas exploding, literally physically blowing material out of the galaxy.
+
+05:05.380 --> 05:09.400
+So it's less like a fossil and more like, I don't know, a sandcastle that gets hit by
+
+05:09.400 --> 05:13.040
+a tidal wave and struck by lightning and then trampled by a herd of horses.
+
+05:13.220 --> 05:14.620
+That's a pretty good way to picture it.
+
+05:14.680 --> 05:14.860
+Yeah.
+
+05:15.040 --> 05:20.620
+And yet you were telling me that the final pile of scattered sand somehow still contains
+
+05:20.620 --> 05:24.840
+a readable record of the specific breeze that was blowing right as the sandcastle was
+
+05:24.840 --> 05:25.560
+first being built.
+
+05:25.780 --> 05:27.140
+That is the paradox right there.
+
+05:27.240 --> 05:32.340
+I mean, almost zero microscopic configuration from the galaxy's seed remains today.
+
+05:32.680 --> 05:35.140
+None of the original puzzle pieces are in the same place.
+
+05:35.140 --> 05:35.580
+Exactly.
+
+05:35.800 --> 05:40.940
+You cannot trace the material identity of the early density field continuously to today.
+
+05:41.280 --> 05:44.320
+The individual particles have been completely reorganized.
+
+05:44.440 --> 05:45.540
+But the memory survives.
+
+05:45.840 --> 05:46.160
+Yes.
+
+05:46.840 --> 05:51.820
+Despite all of that destruction, the current rotation carries information from a primordial
+
+05:51.820 --> 05:56.000
+environment that literally no longer exists in any present day form.
+
+05:56.140 --> 05:57.540
+That is just wild.
+
+05:57.780 --> 05:58.300
+It is.
+
+05:58.480 --> 06:00.920
+And this brings us to Flyxion's main thesis.
+
+06:00.920 --> 06:04.260
+Flyxion argues this isn't just a quirky anomaly.
+
+06:04.720 --> 06:07.940
+It's a case study for a broader rule of the universe.
+
+06:08.140 --> 06:08.420
+Which is.
+
+06:08.800 --> 06:13.300
+That physical persistence across cosmic time is not about the survival of an object.
+
+06:13.700 --> 06:16.060
+It's about the persistence of a distinction.
+
+06:16.560 --> 06:17.060
+Okay, wait, wait.
+
+06:17.600 --> 06:21.960
+If the original material is completely scrambled, what exactly is doing the remembering?
+
+06:22.360 --> 06:25.940
+I mean, if the sandcastle is destroyed, where's the memory stored?
+
+06:25.940 --> 06:27.540
+That's the million-dollar question.
+
+06:27.660 --> 06:27.800
+Right.
+
+06:27.880 --> 06:33.500
+Because we are used to memory requiring a medium, a hard drive, a brain, a piece of paper.
+
+06:34.060 --> 06:37.820
+If there's no continuous physical object, how does the distinction persist?
+
+06:38.280 --> 06:43.900
+To solve that puzzle, we have to look mechanistically at how a galaxy gets its spin in the first place,
+
+06:43.980 --> 06:47.140
+like long before the chaos even begins.
+
+06:47.380 --> 06:48.720
+Okay, let's go back to the beginning then.
+
+06:48.720 --> 06:49.040
+Right.
+
+06:49.480 --> 06:52.920
+This is defined by classical tidal torque theory, or TTT.
+
+06:53.620 --> 06:58.400
+This theory explains that the origin of dalactic angular momentum comes from a misalignment
+
+06:58.400 --> 07:01.600
+between two specific properties of the early universe.
+
+07:01.700 --> 07:02.500
+Okay, two properties.
+
+07:02.580 --> 07:03.120
+What's the first one?
+
+07:03.240 --> 07:05.920
+First, we have the protohalos inertia tensor.
+
+07:06.240 --> 07:10.780
+Okay, let's break down inertia tensor because that sounds really intimidating to a lot of people.
+
+07:11.380 --> 07:17.380
+A tensor is essentially just a mathematical matrix that describes how something extends in three-dimensional space.
+
+07:17.380 --> 07:18.840
+Yeah, that's a good way to put it.
+
+07:19.080 --> 07:27.140
+So we are really just talking about the physical 3D shape and the mass distribution of this initial blob of dark matter and gas.
+
+07:27.500 --> 07:28.400
+Yes, exactly.
+
+07:28.820 --> 07:34.020
+It describes how stretched, squashed, or lopsided that initial mass distribution is.
+
+07:34.080 --> 07:34.720
+Okay, got it.
+
+07:34.760 --> 07:35.880
+So that's the shape of the blob.
+
+07:35.940 --> 07:36.860
+What's the second element?
+
+07:37.120 --> 07:39.700
+The second element is the primordial tidal tensor.
+
+07:40.040 --> 07:42.560
+This represents the surrounding gravitational environment.
+
+07:42.980 --> 07:45.120
+The environment pushing and pulling on the blob.
+
+07:45.440 --> 07:45.880
+Exactly.
+
+07:45.880 --> 07:51.680
+So imagine all the other dense patches of matter in the universe surrounding our blob.
+
+07:52.000 --> 07:56.460
+They are exerting a gravitational pull, but that pull isn't uniform.
+
+07:56.640 --> 07:59.720
+Right, because matter isn't spread out perfectly evenly.
+
+08:00.020 --> 08:00.260
+Right.
+
+08:00.540 --> 08:03.360
+It's stronger in some directions and weaker in others.
+
+08:03.860 --> 08:07.020
+That uneven gravitational field is the title tensor.
+
+08:07.400 --> 08:15.260
+Okay, so the twisting force that actually starts to spin is born because these two things don't perfectly line up.
+
+08:15.260 --> 08:15.860
+Exactly.
+
+08:16.220 --> 08:23.400
+So if the blob was a perfect sphere or if the gravitational pull was perfectly even from all sides, you wouldn't get a spin.
+
+08:23.520 --> 08:24.500
+You just get a straight pull.
+
+08:24.640 --> 08:24.880
+Correct.
+
+08:25.080 --> 08:27.480
+The rotation is a purely relational consequence.
+
+08:28.120 --> 08:34.400
+It is the physical manifestation of the misalignment between the object's shape and the environment's gravitational pull.
+
+08:34.400 --> 08:36.060
+Okay, the physics makes perfect sense.
+
+08:36.160 --> 08:36.320
+Right.
+
+08:36.520 --> 08:41.620
+We know how the spin gets started, so why is this considered such an impossible observational problem?
+
+08:41.820 --> 08:45.760
+Well, because of what Flyxion identifies as the access problem.
+
+08:45.800 --> 08:46.600
+The access problem.
+
+08:46.700 --> 08:46.960
+Yeah.
+
+08:48.000 --> 08:52.600
+Tidal torque theory is physically correct on paper, but operationally.
+
+08:52.600 --> 08:54.060
+It hits a massive wall.
+
+08:54.780 --> 09:02.900
+To prove the theory observationally, you need to measure the tidal field and the inertia tensor in the early universe and then compare them to the galaxy today.
+
+09:03.160 --> 09:04.500
+But I'm guessing we can't do that.
+
+09:04.580 --> 09:04.940
+No.
+
+09:05.200 --> 09:08.460
+We can only ever access one of those two ancient variables.
+
+09:08.820 --> 09:09.420
+Let me guess.
+
+09:10.420 --> 09:15.560
+We can figure out the gravitational tidal field, but we can't figure out the shape of the blob.
+
+09:15.560 --> 09:16.560
+You nailed it.
+
+09:17.120 --> 09:21.860
+On large cosmic scales, gravity is relatively well-behaved and deterministic.
+
+09:22.480 --> 09:31.400
+So, using the large-scale distribution of matter we see today, we can mathematically run the clock backward to reconstruct the ancient primordial tidal field.
+
+09:31.640 --> 09:31.900
+Okay.
+
+09:32.000 --> 09:36.660
+But we absolutely cannot reconstruct the original shape, the inertia tensor of the proto-halo.
+
+09:36.840 --> 09:37.520
+But why not?
+
+09:37.580 --> 09:41.660
+I mean, if we can rewind the gravitational field, why can't we just rewind the blob itself?
+
+09:41.660 --> 09:47.740
+Because the boundary of that proto-halo wasn't defined by any distinguishing feature present in the initial conditions.
+
+09:48.020 --> 09:49.200
+Wait, I'm losing you a bit.
+
+09:49.260 --> 09:49.660
+What do you mean?
+
+09:49.960 --> 10:01.020
+So, in the very early universe, there were no discrete objects, there were no hard boundaries, there was just a continuous field of matter with very slight ripples in density.
+
+10:01.460 --> 10:03.000
+Okay, so just like a soup of matter.
+
+10:03.100 --> 10:04.120
+Yeah, exactly.
+
+10:04.800 --> 10:09.880
+Our specific proto-halo was just a slightly denser patch in a universe full of dense patches.
+
+10:10.180 --> 10:11.500
+It hadn't collapsed yet.
+
+10:11.500 --> 10:12.400
+Ah, I see.
+
+10:12.460 --> 10:18.800
+Because it hadn't undergone non-linear collapse, its shape was basically an arbitrary mathematical designation.
+
+10:19.180 --> 10:25.760
+It wasn't a physical object that we can retroactively trace back from the messy, randomized galaxy we see today.
+
+10:25.860 --> 10:26.160
+I see.
+
+10:26.260 --> 10:27.040
+Okay, this makes sense.
+
+10:27.300 --> 10:33.040
+So, it's like we have the cookie cutter, you know, the gravitational tidal field shaping things from the outside.
+
+10:33.240 --> 10:34.080
+I like that analogy.
+
+10:34.380 --> 10:34.700
+Right.
+
+10:34.700 --> 10:40.220
+But the original blob of dough, the proto-halo's shape, has been baked, eaten, and digested.
+
+10:40.600 --> 10:45.740
+We can't see the original shape of the dough, which means we can't prove how the cookie cutter interacted with it.
+
+10:45.740 --> 10:46.220
+Exactly.
+
+10:46.220 --> 10:49.900
+And if half the equation is invisible, the whole theory seems totally intestinal.
+
+10:50.000 --> 10:50.220
+Right.
+
+10:50.480 --> 10:58.180
+And this divergence between what the physics requires and what we can actually observe marks a crucial epistemic boundary.
+
+10:58.740 --> 11:02.060
+We simply can't observe the physical relation directly.
+
+11:02.060 --> 11:02.960
+So, what do we do?
+
+11:03.320 --> 11:07.020
+Well, Shang and their team had to find a clever workaround.
+
+11:07.680 --> 11:13.620
+They had to abandon the search for the inertia tensor and find what Flyxion calls a reconstructible proxy.
+
+11:13.840 --> 11:15.140
+A reconstructible proxy.
+
+11:15.380 --> 11:15.540
+Yeah.
+
+11:15.700 --> 11:18.540
+So, they needed a mathematical stand-in for the missing cookie dough.
+
+11:18.940 --> 11:19.380
+Exactly.
+
+11:19.920 --> 11:23.480
+But, how do you substitute something you fundamentally cannot know?
+
+11:23.600 --> 11:25.820
+I mean, if we don't know the shape, how do we fake it?
+
+11:25.820 --> 11:26.760
+You don't fake it.
+
+11:26.840 --> 11:31.920
+You substitute it with a different, fully reconstructible property that behaves similarly.
+
+11:32.160 --> 11:32.620
+Okay, how?
+
+11:32.740 --> 11:42.880
+Instead of trying to guess the unobservable shape of the proto-halo, Shang's team replaced it with the tidal field itself, but evaluated it at a completely different, smaller spatial resolution.
+
+11:43.120 --> 11:43.360
+Okay.
+
+11:43.780 --> 11:50.580
+Specifically, they evaluated it at a smoothing scale of approximately 1.8 times the Lagrangian radius of the halo.
+
+11:50.860 --> 11:52.220
+Okay, let's slow down and unpack that.
+
+11:52.220 --> 11:53.820
+The Lagrangian radius.
+
+11:55.240 --> 12:01.840
+In fluid dynamics, Lagrangian perspective means you are following a specific parcel of matter as it moves, right?
+
+12:01.840 --> 12:03.280
+Yes, that's exactly right.
+
+12:03.740 --> 12:11.740
+So, the Lagrangian radius here is the size of the original region of space that contained all the mass that would eventually collapse into the galaxy.
+
+12:12.060 --> 12:12.380
+Yes.
+
+12:12.620 --> 12:17.140
+So, they take that radius and they zoom in slightly to 0.8 times that size.
+
+12:17.320 --> 12:17.580
+Okay.
+
+12:17.580 --> 12:22.740
+They are looking at the gravitational field at the scale of the inner core of the proto-halo.
+
+12:22.940 --> 12:30.460
+This smaller scale traces the local unevenness, the anisotropy, at the exact site where the galaxy is going to form.
+
+12:30.540 --> 12:30.980
+Oh, wow.
+
+12:31.300 --> 12:32.600
+Okay, I think I see where this is going.
+
+12:32.740 --> 12:32.920
+Yeah.
+
+12:32.920 --> 12:40.200
+This local gravitational unevenness mathematically stands in for the unobservable shape of the mass itself.
+
+12:40.820 --> 12:46.940
+Then, they compare that to the gravitational field at a much larger scale, which characterizes the surrounding environment.
+
+12:47.280 --> 12:49.220
+This is a wild conceptual leap.
+
+12:49.340 --> 12:49.520
+Yeah.
+
+12:49.520 --> 12:51.960
+So, they aren't looking at an object in a field anymore.
+
+12:52.120 --> 12:59.500
+They took the unobservable object out entirely, and they are just comparing the gravitational field to itself at two different zoom levels.
+
+13:00.220 --> 13:06.060
+They are measuring how much the gravitational environment disagrees with itself from the inner scale to the outer scale.
+
+13:06.200 --> 13:09.320
+That is the absolute genius of the reconstructible proxy.
+
+13:09.320 --> 13:18.520
+They substituted a pairing between an object and a field with a pairing of the same field with itself, using nested Gaussian smoothing scales.
+
+13:18.540 --> 13:20.300
+A nested Gaussian smoothing scale.
+
+13:20.320 --> 13:20.500
+Yeah.
+
+13:20.780 --> 13:23.580
+It is a scale-dependent non-commensurability.
+
+13:23.960 --> 13:24.860
+That's a mouthful.
+
+13:25.160 --> 13:26.880
+It is, but it works beautifully.
+
+13:27.480 --> 13:34.380
+And to actually execute this, to build this proxy, Sheng's team had to mount an observational effort of staggering scale.
+
+13:34.440 --> 13:34.940
+I can imagine.
+
+13:34.940 --> 13:41.200
+To reconstruct that ancient gravitational cookie cutter, they used something called the Eel Elusi project.
+
+13:41.420 --> 13:42.100
+Eel Ezea.
+
+13:42.520 --> 13:45.320
+How does a project like that actually rewind time?
+
+13:45.540 --> 13:48.720
+Because earlier you said gravity on large scales is deterministic.
+
+13:49.100 --> 13:52.780
+But how do they physically process the data to get the primordial map?
+
+13:53.040 --> 13:59.060
+They use a technique called Hamiltonian Markov-Chain Monte Carlo procedures, combined with particle mesh dynamics.
+
+13:59.240 --> 14:01.280
+Okay, we definitely need to translate that for everyone.
+
+14:01.280 --> 14:06.780
+A Markov-Chain Monte Carlo, or MCMC, is a statistical algorithm, right?
+
+14:06.860 --> 14:07.560
+It is, yeah.
+
+14:07.620 --> 14:10.300
+It's used to sample complex probability distributions.
+
+14:10.860 --> 14:17.360
+You essentially take random walks through a landscape of possibilities, and the algorithm pulls you toward the most likely solutions.
+
+14:17.520 --> 14:18.280
+Yes, exactly.
+
+14:18.620 --> 14:23.220
+So they take the current observed distribution of galaxy groups in the local universe.
+
+14:23.600 --> 14:24.360
+That is the endpoint.
+
+14:24.680 --> 14:25.320
+The present day.
+
+14:25.320 --> 14:25.740
+Right.
+
+14:26.040 --> 14:37.900
+Then, the MCMC algorithm creates millions of potential starting points, primordial density fields, and runs them forward through simplified gravitational simulations using particle mesh dynamics.
+
+14:38.080 --> 14:38.300
+Okay.
+
+14:38.480 --> 14:44.320
+It compares the simulated endpoint to the real universe, adjusts the starting parameters, and runs it again.
+
+14:44.520 --> 14:44.980
+Oh, wow.
+
+14:45.160 --> 14:47.660
+So it's trial and error on a massive scale.
+
+14:47.660 --> 14:48.220
+Huge.
+
+14:48.580 --> 14:57.000
+It is a massive iterative optimization process that eventually converges on the most highly probable map of the early universe's density field.
+
+14:57.140 --> 15:05.000
+So they use supercomputers to systematically guess and check until they find the exact primordial map that results in the universe we live in today.
+
+15:05.300 --> 15:06.140
+Basically, yes.
+
+15:06.400 --> 15:07.060
+That's incredible.
+
+15:07.220 --> 15:09.420
+And that gives them the nested tidal fields.
+
+15:09.600 --> 15:09.740
+Yeah.
+
+15:09.840 --> 15:12.380
+But they also need the modern galaxies to compare it to, right?
+
+15:12.380 --> 15:12.900
+Exactly.
+
+15:13.360 --> 15:17.740
+For the present day kinematics, they use the Manji Integral Field Survey.
+
+15:17.920 --> 15:18.280
+Manji.
+
+15:18.400 --> 15:18.540
+Yeah.
+
+15:18.640 --> 15:20.260
+And this wasn't just a handful of galaxies.
+
+15:21.020 --> 15:29.860
+They analyzed 781 central elliptical galaxies and 815 spiral galaxies tracing the rotation of the gas.
+
+15:29.880 --> 15:30.440
+That's a lot.
+
+15:30.700 --> 15:35.960
+Plus 635 ellipticals and 812 spirals tracing the rotation of the stars.
+
+15:36.280 --> 15:36.780
+Wow.
+
+15:36.780 --> 15:45.520
+And they restricted all of this to massive dark matter halos over 10 to the 12th solar masses where the signal should be most robust.
+
+15:45.940 --> 15:46.660
+10 to the 12th.
+
+15:46.660 --> 15:47.960
+That is a massive scale.
+
+15:48.100 --> 15:51.840
+So they have thousands of galaxies mapped in three dimensions.
+
+15:52.100 --> 15:52.360
+Yes.
+
+15:52.480 --> 15:58.780
+So they take the present day spin from Manji and they cross-reference it against the nested scale proxy from Eulucid.
+
+15:59.580 --> 15:59.840
+Right.
+
+15:59.940 --> 16:03.260
+And that is exactly where they found the 7.0 sigma correlation.
+
+16:03.540 --> 16:05.440
+The math completely checked out.
+
+16:05.440 --> 16:05.700
+Okay.
+
+16:06.060 --> 16:06.480
+But hold on.
+
+16:06.520 --> 16:10.320
+If they completely swapped out the variables, aren't they testing a completely different theory now?
+
+16:10.560 --> 16:13.240
+I mean, that sounds like a bit of a statistical sleight of hand.
+
+16:13.340 --> 16:13.580
+Yeah.
+
+16:13.580 --> 16:21.080
+If I replace the cookie dough with the theoretical model of dough and it bakes perfectly, I haven't proven anything about the original dough.
+
+16:21.500 --> 16:23.820
+I've just proven my model works with my cookie cutter.
+
+16:24.020 --> 16:28.700
+This is a vital distinction, and it's the exact trap Flyxion warns about in the paper.
+
+16:28.700 --> 16:38.980
+The physical claim of classical tidal torque theory and the operational claim actually tested by Sheng are related, but they are absolutely not identical.
+
+16:39.300 --> 16:39.400
+Okay.
+
+16:39.560 --> 16:41.720
+There are three distinct objects in play here.
+
+16:41.880 --> 16:43.260
+Walk me through the three objects.
+
+16:43.320 --> 16:43.500
+Sure.
+
+16:43.500 --> 16:46.600
+Object one is the physical primordial relation.
+
+16:46.980 --> 16:52.260
+That's the true misalignment between the actual proto-halo shape and the true tidal field.
+
+16:52.460 --> 16:52.700
+Okay.
+
+16:52.880 --> 16:56.820
+This is physical reality, but as we discussed, it is forever unobservable.
+
+16:56.960 --> 16:57.180
+Right.
+
+16:57.380 --> 16:59.560
+Object two is the reconstructable proxy.
+
+17:00.100 --> 17:04.720
+This is that nested two-scale field comparison that Sheng's team computed.
+
+17:05.060 --> 17:05.640
+The stand-in.
+
+17:05.640 --> 17:06.240
+Exactly.
+
+17:07.040 --> 17:11.960
+And object three is the present-day observable, the galaxy's actual measured spin.
+
+17:12.540 --> 17:16.640
+The 7.0 sigma correlation is strictly between object two and object three.
+
+17:16.840 --> 17:19.400
+So they correlated the proxy to the modern galaxy.
+
+17:19.540 --> 17:22.880
+They never actually touched the true primordial restriction.
+
+17:23.000 --> 17:23.120
+Correct.
+
+17:23.640 --> 17:27.100
+The evidence bears on the first object, but it is not identical to it.
+
+17:27.420 --> 17:28.680
+So how do we know it's valid?
+
+17:28.680 --> 17:34.300
+The entire validity of this approach relies on immense n-body simulations, demonstrating
+
+17:34.300 --> 17:40.300
+that the proxy, object two, actually does tightly track the physical relation, object one.
+
+17:40.540 --> 17:40.880
+I see.
+
+17:41.400 --> 17:46.440
+The simulations confirm that the local unevenness of the gravitational field is an incredibly
+
+17:46.440 --> 17:49.460
+reliable predictor of the resulting mass shape.
+
+17:50.240 --> 17:51.800
+It is not just a mathematical trick.
+
+17:51.920 --> 17:54.620
+It's a rigorously validated stand-in.
+
+17:54.820 --> 17:54.980
+Okay.
+
+17:55.060 --> 17:57.120
+So the proxy represents a real physical truth.
+
+17:57.120 --> 17:59.340
+We've basically solved the access problem.
+
+17:59.940 --> 18:03.540
+But this brings us back to what I think is the most mind-bending part of Flyxion's paper.
+
+18:04.120 --> 18:08.080
+We established earlier that the modern galaxy itself has been completely scrambled over
+
+18:08.080 --> 18:09.540
+billions of years, right?
+
+18:09.640 --> 18:10.500
+Utterly scrambled.
+
+18:10.660 --> 18:15.440
+So how does this proxy, this ancient relationship, actually survive in the present day?
+
+18:16.260 --> 18:20.240
+And Flyxion talks about this in terms of shifting our framework from viewing systems
+
+18:20.240 --> 18:22.800
+as states to viewing them as trajectories.
+
+18:22.980 --> 18:24.900
+What does that mean in a physical sense?
+
+18:24.900 --> 18:30.680
+It is a profound philosophical reframing of how we conceptualize astronomical bodies.
+
+18:30.820 --> 18:34.680
+Usually, when we look at a galaxy, we view it as a state.
+
+18:34.800 --> 18:35.520
+Like a snapshot.
+
+18:35.900 --> 18:36.460
+Exactly.
+
+18:36.680 --> 18:41.520
+A specific collection of matter, gas, and stars existing at a specific spatial coordinate
+
+18:41.520 --> 18:42.140
+right now.
+
+18:42.320 --> 18:42.520
+Right.
+
+18:42.520 --> 18:48.720
+But if a galaxy is purely its present state, then a correlation between that state and
+
+18:48.720 --> 18:54.340
+a primordial field from billions of years ago looks completely paradoxical, because the
+
+18:54.340 --> 18:58.180
+matter currently present has no physical obligation to remember anything.
+
+18:58.500 --> 18:58.720
+Right.
+
+18:58.780 --> 19:02.620
+Because if I look at a galaxy as a collection of stars now, those specific stars didn't
+
+19:02.620 --> 19:05.320
+even exist when the tidal field was pulling on the proto-halo.
+
+19:05.480 --> 19:07.120
+The matter has been totally recycled.
+
+19:07.120 --> 19:07.680
+Exactly.
+
+19:08.460 --> 19:13.920
+But Flyxion argues, we must view a physical system as a trajectory, a continuous path through
+
+19:13.920 --> 19:16.880
+a vast space of admissible configurations over time.
+
+19:17.040 --> 19:17.300
+Okay.
+
+19:17.500 --> 19:22.600
+Certain observable properties, like total angular momentum, are not just functions of the present
+
+19:22.600 --> 19:22.900
+moment.
+
+19:23.100 --> 19:26.080
+They are functional representations of the entire trajectory.
+
+19:26.660 --> 19:27.700
+They are partly historical.
+
+19:28.080 --> 19:28.580
+Oh, I see.
+
+19:28.780 --> 19:32.500
+So angular momentum isn't just a sticker slapped on the galaxy today.
+
+19:32.660 --> 19:35.620
+It's a summary of what the galaxy has been through.
+
+19:35.620 --> 19:36.600
+Yes, exactly.
+
+19:37.060 --> 19:40.480
+And this introduces Flyxion's definition of a distinction.
+
+19:40.900 --> 19:41.140
+Right.
+
+19:41.240 --> 19:42.580
+The persistence of a distinction.
+
+19:42.760 --> 19:42.860
+Right.
+
+19:43.180 --> 19:48.620
+A distinction is a physically instantiated difference between two alternative histories.
+
+19:48.920 --> 19:49.180
+Okay.
+
+19:49.300 --> 19:49.880
+Give me an example.
+
+19:50.520 --> 19:54.540
+Imagine two slightly different primordial gravitational environments.
+
+19:55.120 --> 20:00.780
+If those two environments produce descendant galaxies whose spins we can still statistically
+
+20:00.780 --> 20:04.180
+tell apart today, then a distinction has survived.
+
+20:04.440 --> 20:04.840
+Wow.
+
+20:04.840 --> 20:10.020
+Even if the galaxies themselves have completely changed their material form, the difference
+
+20:10.020 --> 20:14.020
+between their historical trajectories remains mathematically recoverable.
+
+20:14.300 --> 20:16.640
+Flyxion calls this memory without representation.
+
+20:16.900 --> 20:17.100
+Right.
+
+20:17.320 --> 20:19.260
+Which sounds almost contradictory to me.
+
+20:19.360 --> 20:21.600
+How can you have memory without a record?
+
+20:21.700 --> 20:24.120
+If I want to remember something, I write it down, I represent it.
+
+20:24.180 --> 20:24.400
+Right.
+
+20:24.520 --> 20:25.040
+You store it.
+
+20:25.300 --> 20:25.740
+Exactly.
+
+20:26.260 --> 20:27.700
+The galaxy doesn't have a hard drive.
+
+20:27.780 --> 20:31.520
+But if I'm understanding this correctly, it's kind of like a river that carves a canyon.
+
+20:31.680 --> 20:31.880
+Okay.
+
+20:31.900 --> 20:32.340
+Let's hear it.
+
+20:32.340 --> 20:34.960
+The water that did the carving is long gone.
+
+20:35.600 --> 20:36.800
+It vanished into the ocean.
+
+20:37.520 --> 20:39.440
+There is no water left to represent the river.
+
+20:40.140 --> 20:45.480
+But the shape of the canyon, the depth and the curves, it still tells you how fast and in
+
+20:45.480 --> 20:47.060
+what direction the river was flowing.
+
+20:47.600 --> 20:48.140
+That's good.
+
+20:48.140 --> 20:51.860
+That perfectly captures the essence of it.
+
+20:51.860 --> 20:55.800
+A galaxy does not store a symbolic record of the tidal tensor.
+
+20:56.220 --> 20:57.640
+There is no memory address.
+
+20:57.980 --> 20:58.060
+Right.
+
+20:58.140 --> 20:59.180
+The memory is structural.
+
+20:59.640 --> 21:03.180
+It is a property of the joint statistics of the system across time.
+
+21:03.560 --> 21:06.360
+It is the survival of inferential dependence.
+
+21:06.360 --> 21:11.720
+The current spin is statistically dependent on the ancient environment, requiring neither
+
+21:11.720 --> 21:14.600
+an explicit representation nor a storage device.
+
+21:14.820 --> 21:17.520
+But I have to push back on my own canyon analogy here.
+
+21:17.620 --> 21:19.760
+Because a canyon just sits there quietly in the desert.
+
+21:20.160 --> 21:22.460
+A galaxy is constantly being hit by other galaxies.
+
+21:22.500 --> 21:22.840
+It's true.
+
+21:22.920 --> 21:23.560
+It's very active.
+
+21:23.560 --> 21:28.060
+And if the universe is constantly moving toward higher entropy, getting messier and more
+
+21:28.060 --> 21:35.320
+disordered, how does this fragile geometric memory survive billions of years of chaotic
+
+21:35.320 --> 21:35.800
+collisions?
+
+21:36.060 --> 21:38.200
+That is the ultimate test of the theory.
+
+21:38.580 --> 21:44.260
+Flyxion addresses it head on with a concept called Markovian coarse-grained evolution.
+
+21:44.420 --> 21:46.260
+Markovian coarse-grained evolution.
+
+21:46.340 --> 21:46.580
+Yes.
+
+21:47.080 --> 21:51.000
+And to understand it, we apply something called the data processing inequality.
+
+21:51.320 --> 21:53.240
+The data processing inequality.
+
+21:53.240 --> 21:54.360
+Let's break that down.
+
+21:54.880 --> 22:00.000
+In information theory, it essentially says that you cannot create new information by
+
+22:00.000 --> 22:03.480
+just processing or manipulating existing data.
+
+22:03.980 --> 22:06.700
+Information can only be lost or maintained along a chain.
+
+22:06.980 --> 22:07.900
+It can never increase.
+
+22:08.100 --> 22:08.540
+Exactly.
+
+22:08.900 --> 22:15.660
+If you have a chain of events, say event A causes event B, which causes event C, the information
+
+22:15.660 --> 22:20.040
+about event A that survives in event C can only decrease or at best A the same.
+
+22:20.120 --> 22:21.260
+It cannot increase.
+
+22:21.360 --> 22:21.780
+Makes sense.
+
+22:21.780 --> 22:26.880
+So all influence of the primordial distinction on today's galaxy is mediated through every
+
+22:26.880 --> 22:28.100
+single intermediate state.
+
+22:28.620 --> 22:30.180
+Every merger, every supernova.
+
+22:30.760 --> 22:34.360
+Therefore, accessibility to the primordial distinction must intrinsically decay.
+
+22:34.740 --> 22:35.840
+So the memory is fading.
+
+22:36.020 --> 22:37.640
+The universe is actively erasing it.
+
+22:37.840 --> 22:38.960
+It is fading, yes.
+
+22:39.640 --> 22:44.460
+The empirical question is not whether the memory decays, but how slowly it decays relative
+
+22:44.460 --> 22:46.160
+to the violence of the transformations.
+
+22:46.160 --> 22:48.100
+Okay, do we have numbers on that?
+
+22:48.260 --> 22:48.640
+We do.
+
+22:49.180 --> 22:54.480
+In simplified computer simulations of just dark matter, the correlation between the
+
+22:54.480 --> 22:58.320
+primordial field and the final spin is around 0.5 to 0.7.
+
+22:58.440 --> 22:58.920
+Pretty strong.
+
+22:59.120 --> 23:03.380
+But in the real messy universe, Shang measured a correlation of 0.13.
+
+23:03.640 --> 23:04.260
+Oh, wow.
+
+23:04.260 --> 23:08.580
+So the signal has degraded significantly, but crucially, it has not reached 0.
+
+23:08.580 --> 23:09.300
+But wait.
+
+23:09.860 --> 23:14.880
+When two massive galaxies smash together in a major merger, the gravitational violence
+
+23:14.880 --> 23:15.600
+is immense.
+
+23:16.120 --> 23:18.380
+How does the spin not just completely reset?
+
+23:18.640 --> 23:19.560
+It's a great question.
+
+23:19.640 --> 23:23.180
+Why doesn't that merger just wipe the slate clean and push the correlation all the way
+
+23:23.180 --> 23:23.520
+to 0?
+
+23:23.520 --> 23:26.800
+This is where Flyxion introduces a vital mechanical concept.
+
+23:27.300 --> 23:28.720
+Repair without restoration.
+
+23:29.120 --> 23:30.320
+Repair without restoration.
+
+23:30.540 --> 23:30.680
+Yes.
+
+23:31.100 --> 23:35.100
+When a galaxy undergoes a violent merger, it does not rebuild its old self.
+
+23:35.500 --> 23:36.660
+It doesn't reverse time.
+
+23:37.060 --> 23:39.820
+But it also doesn't just shatter into random chaos.
+
+23:40.100 --> 23:41.120
+It undergoes repair.
+
+23:41.520 --> 23:46.380
+See, when I hear repair, I think of fixing a broken window so it looks exactly like the
+
+23:46.380 --> 23:46.860
+old window.
+
+23:46.960 --> 23:47.120
+Yeah.
+
+23:47.120 --> 23:48.280
+Returning to the original state.
+
+23:48.360 --> 23:48.560
+Right.
+
+23:48.660 --> 23:50.340
+In our everyday language, that's what it means.
+
+23:50.340 --> 23:54.220
+But in phase space dynamics, repair means something specific.
+
+23:54.960 --> 24:00.580
+It means the dynamics return the perturbed system to an admissible region of configuration
+
+24:00.580 --> 24:01.340
+space.
+
+24:01.480 --> 24:01.660
+Okay.
+
+24:01.920 --> 24:05.740
+The galaxy relaxes into a new dynamically viable state.
+
+24:06.300 --> 24:10.220
+When two galaxies merge, the system undergoes violent relaxation.
+
+24:10.820 --> 24:15.580
+It might end up with a completely different mass, different morphological shapes, say, turning
+
+24:15.580 --> 24:20.320
+from two spirals into a giant elliptical and completely different internal space.
+
+24:20.580 --> 24:20.980
+Kinematics.
+
+24:21.180 --> 24:21.460
+Okay.
+
+24:21.720 --> 24:25.720
+But during this relaxation process, it retains relational invariance.
+
+24:25.860 --> 24:27.120
+It finds a new equilibrium.
+
+24:27.560 --> 24:31.280
+And in that new equilibrium, the ancient rotational bias is preserved.
+
+24:31.460 --> 24:31.980
+Oh, I get it.
+
+24:32.020 --> 24:35.020
+So it's not repairing the window to look exactly like the old window.
+
+24:35.120 --> 24:35.400
+No.
+
+24:35.540 --> 24:40.380
+It's more like taking a lump of blue clay and a lump of yellow clay, both spinning clockwise.
+
+24:40.780 --> 24:42.560
+You smash them together violently.
+
+24:42.720 --> 24:42.860
+Right.
+
+24:43.080 --> 24:45.440
+You don't get the individual blue and yellow lumps back.
+
+24:45.500 --> 24:47.040
+The original configuration is lost.
+
+24:47.040 --> 24:47.400
+Mm-hmm.
+
+24:47.500 --> 24:49.460
+You get a new, larger green lump.
+
+24:49.820 --> 24:50.340
+Exactly.
+
+24:50.580 --> 24:52.820
+That is repairing into a new admissible state.
+
+24:53.460 --> 24:56.140
+But the new green lump is still spinning clockwise.
+
+24:56.800 --> 25:02.160
+The material state is destroyed, but the relational memory, the spin, survives the chaos.
+
+25:02.160 --> 25:04.460
+That captures the dynamic perfectly.
+
+25:05.200 --> 25:09.060
+Repair preserves difference rather than restoring sameness.
+
+25:09.300 --> 25:09.620
+Wow.
+
+25:10.060 --> 25:15.240
+The galaxy's overall configuration is free to change entirely, while a small number of
+
+25:15.240 --> 25:18.720
+relational invariants remain informative about its earliest history.
+
+25:19.020 --> 25:20.580
+But what about the entropy objection?
+
+25:21.100 --> 25:24.020
+The second law of thermodynamics says entropy is always increasing.
+
+25:24.240 --> 25:25.100
+Yes, it is.
+
+25:25.100 --> 25:30.100
+If the universe is fundamentally moving toward disorder, doesn't that inherently mean history
+
+25:30.100 --> 25:31.820
+is being systematically erased?
+
+25:32.040 --> 25:36.860
+It is a really common intuition, but Flyxion points out it is a major conflation of microscopic
+
+25:36.860 --> 25:38.520
+and macroscopic information.
+
+25:38.740 --> 25:39.100
+How so?
+
+25:39.300 --> 25:44.900
+Entropy growth just means the number of possible microscopic states compatible with our macroscopic
+
+25:44.900 --> 25:46.180
+observation is growing.
+
+25:46.460 --> 25:51.860
+It causes a loss of accessible distinctions at a highly specific microscopic resolution.
+
+25:52.040 --> 25:53.300
+Okay, so the tiny detail.
+
+25:53.300 --> 25:53.900
+Exactly.
+
+25:54.200 --> 25:59.040
+The exact position of every single star becomes completely randomized and unrecoverable.
+
+25:59.360 --> 25:59.560
+Right.
+
+25:59.680 --> 26:03.860
+The phase mixing and chaotic orbits make it impossible to track individual stars backward
+
+26:03.860 --> 26:04.360
+in time.
+
+26:04.440 --> 26:04.860
+Exactly.
+
+26:05.360 --> 26:10.720
+But in low-dimensional projections, like looking at the single vector of overall angular momentum
+
+26:10.720 --> 26:14.140
+correlations, can perfectly survive entropy growth.
+
+26:14.280 --> 26:15.020
+That is amazing.
+
+26:15.360 --> 26:21.840
+The microscopic details are lost to entropy, but the macroscopic structural distinction survives.
+
+26:21.840 --> 26:28.060
+So entropy randomized all the tiny variables, but it didn't erase the massive, overarching
+
+26:28.060 --> 26:29.460
+geometric relationship.
+
+26:29.700 --> 26:30.300
+Precisely.
+
+26:30.520 --> 26:35.500
+And to make this epistemic reality rigorous, Flyxion introduces a framework to help us
+
+26:35.500 --> 26:37.200
+understand what we're actually measuring.
+
+26:38.080 --> 26:40.000
+The three cones of persistence.
+
+26:40.740 --> 26:44.320
+This feels crucial for not misinterpreting astronomical data.
+
+26:44.460 --> 26:45.640
+It is absolutely essential.
+
+26:45.800 --> 26:48.260
+Imagine three nested cones, one inside the other.
+
+26:48.380 --> 26:49.160
+Okay, I'm picturing it.
+
+26:49.160 --> 26:52.360
+The outermost and largest is the physical persistence cone.
+
+26:52.740 --> 26:58.700
+This represents the set of all scales, times, and observables, where a genuine physical statistical
+
+26:58.700 --> 27:01.760
+dependence on the primordial influence still exists in the universe.
+
+27:02.000 --> 27:02.880
+Okay, so that's reality.
+
+27:03.120 --> 27:03.420
+Yes.
+
+27:04.200 --> 27:10.200
+It is the raw objective truth of reality, entirely independent of whether humans have the technology
+
+27:10.200 --> 27:10.960
+to measure it.
+
+27:10.960 --> 27:12.840
+Okay, the universe's actual memory.
+
+27:13.020 --> 27:14.600
+What is the next cone inside that?
+
+27:14.600 --> 27:16.340
+The observable persistence cone.
+
+27:16.460 --> 27:18.000
+This is a much smaller subset.
+
+27:18.000 --> 27:23.840
+It represents what our theoretically available observational channels, like the interfield
+
+27:23.840 --> 27:27.060
+spectroscopy from Menge, could potentially see in principle.
+
+27:27.600 --> 27:27.660
+Right.
+
+27:27.760 --> 27:32.100
+If the physical signal is there, but it's only expressed in a dark matter interaction that
+
+27:32.100 --> 27:37.380
+we have zero theoretical instruments to detect, it exists in the physical cone, but falls
+
+27:37.380 --> 27:38.940
+outside the observable cone.
+
+27:39.020 --> 27:39.220
+Good.
+
+27:39.380 --> 27:41.180
+And the smallest innermost cone?
+
+27:41.340 --> 27:42.220
+The detection cone.
+
+27:42.400 --> 27:43.840
+This is the narrowest reality.
+
+27:43.840 --> 27:49.980
+This is what our specific current sample sizes, our specific signal-to-noise ratios, our current
+
+27:49.980 --> 27:55.380
+reconstruction algorithms, like elizuzide, and our strict statistical thresholds, like demanding
+
+27:55.380 --> 27:58.640
+a seven-sigma proof, can actually confirm today.
+
+27:58.640 --> 28:01.740
+Okay, so to synthesize that, it's like a radio station.
+
+28:01.880 --> 28:02.400
+Let's hear it.
+
+28:02.480 --> 28:07.120
+The actual signal propagating through the air across the entire state is the physical
+
+28:07.120 --> 28:07.860
+persistence cone.
+
+28:08.020 --> 28:08.480
+It's out there.
+
+28:08.780 --> 28:13.720
+Owning a radio receiver that is technically capable of tuning into that frequency is the
+
+28:13.720 --> 28:15.160
+observable persistence cone.
+
+28:15.280 --> 28:15.620
+Yes.
+
+28:15.900 --> 28:22.380
+And actually being able to hear the song clearly through the static in your specific location
+
+28:22.380 --> 28:25.800
+with your specific volume settings is the detection cone.
+
+28:26.040 --> 28:27.660
+That is a brilliant way to put it, yes.
+
+28:27.660 --> 28:31.660
+And this nesting prevents massive scientific errors.
+
+28:31.940 --> 28:32.420
+How so?
+
+28:32.540 --> 28:37.280
+Well, for instance, in Sheng's data, they noted that this amazing memory correlation
+
+28:37.280 --> 28:44.060
+degrades and seems to vanish in lower mass halos, specifically in galaxies below 10 to the
+
+28:44.060 --> 28:45.660
+12.5 solar masses.
+
+28:45.840 --> 28:47.080
+Okay, so smaller galaxies.
+
+28:47.260 --> 28:51.800
+If I just glance at the abstract, I might assume, oh, small galaxies get knocked around too
+
+28:51.800 --> 28:52.000
+much.
+
+28:52.060 --> 28:52.320
+Yeah.
+
+28:52.540 --> 28:53.960
+Their memory is physically erased.
+
+28:53.960 --> 28:54.440
+Exactly.
+
+28:54.860 --> 28:58.720
+A careless reading collapses the quons and assumes the physical memory is just gone.
+
+28:59.100 --> 29:02.040
+But Flyxion's framework forces us to look closer.
+
+29:02.320 --> 29:03.280
+What's really going on?
+
+29:03.440 --> 29:09.260
+Sheng's team explicitly attributed this degradation to growing mathematical errors in how the Elia-Lucid
+
+29:09.260 --> 29:13.060
+algorithm remaps Lagrangian space at those smaller scales.
+
+29:13.060 --> 29:15.660
+Oh, so it's an algorithm problem, not a universe problem.
+
+29:15.760 --> 29:19.540
+Just because you hear static on your radio, it doesn't mean the DJ went home.
+
+29:19.940 --> 29:25.220
+It just means your receiver isn't sensitive enough to process that specific frequency yet.
+
+29:25.280 --> 29:25.840
+Precisely.
+
+29:26.360 --> 29:31.660
+The detection cone shrank because of algorithmic limitations in tracing smaller spectral resolutions.
+
+29:31.660 --> 29:38.020
+The physical cone, the actual memory in those smaller galaxies might still be perfectly intact.
+
+29:38.220 --> 29:40.000
+We just can't prove it yet.
+
+29:40.180 --> 29:44.160
+This framework is elegant because it tells us exactly where the boundaries of our knowledge
+
+29:44.160 --> 29:44.540
+are.
+
+29:44.780 --> 29:48.460
+But, you know, any good theoretical framework can't just explain past results.
+
+29:48.560 --> 29:49.560
+It has to predict the future.
+
+29:49.680 --> 29:50.640
+It has to be falsifiable.
+
+29:50.820 --> 29:52.600
+That's the hallmark of good science.
+
+29:52.940 --> 29:56.980
+Did Flyxion stick their neck out and make a hard prediction that could prove this whole
+
+29:56.980 --> 29:57.760
+theory wrong?
+
+29:57.760 --> 30:03.840
+They absolutely did, and they based it on a very specific empirical anomaly in Sheng's
+
+30:03.840 --> 30:04.220
+dataset.
+
+30:04.400 --> 30:05.060
+What was the anomaly?
+
+30:05.360 --> 30:09.680
+Sheng's team measured the spin using two different tracers in the same galaxies.
+
+30:10.320 --> 30:14.140
+The gas, measured via H-alpha emission, and the stars.
+
+30:14.640 --> 30:15.920
+Okay, gas and stars.
+
+30:16.200 --> 30:20.740
+And they found that the spins traced by the gas correlate with the primordial field far more
+
+30:20.740 --> 30:22.920
+strongly than the spins traced by the stars.
+
+30:23.400 --> 30:24.060
+Wait, really?
+
+30:24.520 --> 30:27.000
+Why would the gas remember better than the stars?
+
+30:27.000 --> 30:32.740
+I mean, they are sitting in the exact same galaxy, experiencing the exact same merger
+
+30:32.740 --> 30:33.240
+history.
+
+30:33.420 --> 30:37.300
+Well, Sheng attributed this discrepancy to a few mundane statistical factors.
+
+30:37.640 --> 30:38.080
+Like what?
+
+30:38.360 --> 30:43.820
+The galaxies in their sample that had easily measurable gas tended to reside in higher mass
+
+30:43.820 --> 30:47.280
+halos, which Eolucide reconstructs more accurately.
+
+30:48.220 --> 30:53.420
+Also, measuring gas kinematics inherently has smaller margins of error than measuring stellar
+
+30:53.420 --> 30:53.960
+kinematics.
+
+30:54.200 --> 30:55.320
+Okay, so observation bias.
+
+30:55.320 --> 30:55.840
+Partly.
+
+30:56.340 --> 31:00.380
+But thirdly, and most importantly, there is a physical dynamical proposition.
+
+31:01.120 --> 31:06.180
+Gas simply retains dynamical coherence better than a collisionless population of stars.
+
+31:06.560 --> 31:08.240
+I want to dig into that physical mechanism.
+
+31:08.760 --> 31:12.260
+Why does gas behave differently than stars when a galaxy gets scrambled?
+
+31:12.460 --> 31:15.060
+It comes down to collisional versus collisionless physics.
+
+31:15.060 --> 31:16.960
+Gas is a collisional fluid.
+
+31:17.180 --> 31:18.260
+Meaning the particles hit each other.
+
+31:18.260 --> 31:18.860
+Exactly.
+
+31:19.280 --> 31:23.660
+When gas clouds orbit and interact, the particles physically crash into each other.
+
+31:24.200 --> 31:28.440
+These collisions dissipate kinetic energy, causing the gas to cool and settle down into
+
+31:28.440 --> 31:30.960
+a highly coherent, unified rotating disk.
+
+31:31.340 --> 31:32.460
+It self-organizes.
+
+31:32.840 --> 31:34.060
+Okay, that makes sense for gas.
+
+31:34.300 --> 31:37.700
+Stars, on the other hand, are collisionless point masses.
+
+31:37.700 --> 31:42.360
+The distances between stars are so vast that they essentially never hit each other.
+
+31:42.480 --> 31:42.960
+Oh, right.
+
+31:43.200 --> 31:44.260
+Space is mostly empty.
+
+31:44.380 --> 31:44.700
+Exactly.
+
+31:44.900 --> 31:46.480
+They only interact gravitationally.
+
+31:46.980 --> 31:50.780
+So during a merger, their individual orbits get violently scrambled.
+
+31:50.780 --> 31:57.280
+And because they can't collide to dissipate that kinetic energy, they remain in a randomized
+
+31:57.280 --> 31:59.100
+pressure-supported swarm.
+
+31:59.100 --> 32:02.640
+Which is what we see as a galactic bulge or an elliptical galaxy.
+
+32:02.840 --> 32:03.260
+You got it.
+
+32:03.380 --> 32:08.640
+So the gas is like a fluid that can settle and hold a unified spin, while the stars are
+
+32:08.640 --> 32:12.500
+like a swarm of bees that get permanently scattered in their individual orbits.
+
+32:12.680 --> 32:14.760
+That is the dynamical coherence hypothesis.
+
+32:15.120 --> 32:16.400
+It explains the mechanism.
+
+32:16.400 --> 32:22.200
+But Flyxion takes this physical mechanism and turns it into a strict, falsifiable ordering
+
+32:22.200 --> 32:22.740
+prediction.
+
+32:23.040 --> 32:23.720
+What's the prediction?
+
+32:24.120 --> 32:27.880
+Flyxion states, let's assume we build better telescopes and algorithms.
+
+32:28.340 --> 32:33.280
+If we perfectly match the host halo mass, the environmental history, the measurement uncertainty,
+
+32:33.580 --> 32:36.380
+and the redshift for both the gas and the stellar samples.
+
+32:36.780 --> 32:42.500
+Meaning you completely eliminate all the boring statistical excuses for why the gas looks better.
+
+32:42.620 --> 32:43.140
+Exactly.
+
+32:43.140 --> 32:48.240
+If you control for all those confounds, the persistence framework predicts that the gas
+
+32:48.240 --> 32:52.100
+channel must still show a greater correlation than the stellar channel.
+
+32:52.240 --> 32:52.560
+Wow.
+
+32:52.680 --> 32:57.720
+Because Flyxion's framework is committed to the physical reality of that dynamical coherence
+
+32:57.720 --> 32:59.940
+mechanism, not just statistical artifacts.
+
+33:00.360 --> 33:04.120
+But if I'm coming up with a grand theory of cosmic memory, the last thing I want to do
+
+33:04.120 --> 33:10.100
+is build a highly specific trapdoor that could completely falsify my own work.
+
+33:10.100 --> 33:14.220
+Why not just say gas and stars both show the memory, so my theory is correct?
+
+33:14.420 --> 33:17.380
+Because a theory that explains everything explains nothing.
+
+33:17.520 --> 33:21.160
+That is the difference between a loose descriptive narrative and rigorous science.
+
+33:21.320 --> 33:21.760
+Fair point.
+
+33:22.120 --> 33:27.660
+If future larger surveys eliminate that gas-stellar asymmetry once all errors are controlled,
+
+33:28.060 --> 33:32.620
+if gas and stars turn out to remember equally well, then the dynamical coherence explanation
+
+33:32.620 --> 33:33.160
+dies.
+
+33:33.240 --> 33:34.000
+And if that dies?
+
+33:34.000 --> 33:40.580
+If that dies, a core physical mechanism supporting Flyxion's interpretation of repair without restoration
+
+33:40.580 --> 33:42.440
+loses its foundation.
+
+33:43.280 --> 33:46.880
+Flyxion is forcing the framework to be exposed to failure.
+
+33:47.200 --> 33:48.780
+It's a scientific dare.
+
+33:49.580 --> 33:52.860
+It's saying, here is exactly the data point that will prove me wrong.
+
+33:53.280 --> 33:53.740
+Exactly.
+
+33:53.740 --> 33:58.620
+Okay, so we've covered the physics, the observation, the trajectory, and the epistemology.
+
+33:59.000 --> 34:01.420
+But how does this actually work mathematically?
+
+34:01.880 --> 34:03.520
+The math is where it gets really beautiful.
+
+34:03.760 --> 34:08.920
+Because if a merger is a chaotic, non-invertible transformation, meaning you can't run the math
+
+34:08.920 --> 34:13.460
+backward, how can you mathematically prove that a relational memory survives it?
+
+34:13.540 --> 34:15.280
+Now we are diving into the deep end.
+
+34:15.780 --> 34:21.080
+We are looking at what Flyxion outlines as theorem one, the spectral persistence criterion.
+
+34:21.080 --> 34:23.440
+Okay, we are going to break this down piece by piece.
+
+34:23.840 --> 34:24.940
+How do you map chaos?
+
+34:25.360 --> 34:28.960
+To understand this theorem, we need to introduce something called the Koopman operator.
+
+34:29.240 --> 34:30.260
+The Koopman operator.
+
+34:30.380 --> 34:31.720
+What does this operator actually do?
+
+34:31.960 --> 34:36.140
+Well, in classical dynamical systems theory, you usually track the physical state of the
+
+34:36.140 --> 34:39.960
+system, the exact position and momentum of every single star.
+
+34:40.280 --> 34:42.200
+Which we just said is impossible because of entropy.
+
+34:42.480 --> 34:42.800
+Right.
+
+34:43.040 --> 34:49.080
+In a complex galaxy, the equations governing that state space are intensely non-linear and chaotic.
+
+34:49.080 --> 34:51.360
+It's mathematically intractable.
+
+34:52.040 --> 34:54.660
+The Koopman operator shifts the perspective entirely.
+
+34:55.280 --> 34:59.860
+Instead of looking at how the physical points in the system move, it looked at how our observable
+
+34:59.860 --> 35:02.140
+functions of the system evolve over time.
+
+35:02.180 --> 35:03.180
+But let me make sure I have this.
+
+35:03.220 --> 35:08.300
+So instead of trying to write an equation for the chaotic movement of billions of individual stars,
+
+35:08.940 --> 35:13.540
+the operator tracks the evolution of the overall macroscopic property we actually care
+
+35:13.540 --> 35:15.600
+about, like the total angular momentum.
+
+35:15.600 --> 35:16.160
+Exactly.
+
+35:16.380 --> 35:20.320
+And the brilliance of the Koopman operator is that while the underlying physical dynamics
+
+35:20.320 --> 35:25.280
+are non-linear and chaotic, the evolution of the observables in this new mathematical
+
+35:25.280 --> 35:27.020
+space is strictly linear.
+
+35:27.340 --> 35:27.880
+Wait, really?
+
+35:27.980 --> 35:28.640
+It makes it linear?
+
+35:28.900 --> 35:29.200
+Yes.
+
+35:29.320 --> 35:34.760
+And that allows mathematicians to use powerful linear algebra techniques, specifically spectral
+
+35:34.760 --> 35:35.480
+decomposition.
+
+35:35.480 --> 35:41.620
+The Koopman operator decomposes the evolution of the galaxy into two distinct mathematical
+
+35:41.620 --> 35:42.420
+subspaces.
+
+35:42.620 --> 35:43.460
+What are the two spaces?
+
+35:43.920 --> 35:45.800
+The first is the mixing part of the spectrum.
+
+35:46.560 --> 35:51.560
+This is the realm where information genuinely dissipates, decorrelates, and gets utterly lost
+
+35:51.560 --> 35:53.040
+to chaotic interactions.
+
+35:53.160 --> 35:54.280
+So that's the messy room.
+
+35:54.380 --> 35:54.620
+Yes.
+
+35:55.060 --> 36:00.660
+The mathematics here dictate that any observable living entirely in this mixing subspace will
+
+36:00.660 --> 36:03.860
+see its memory of the past decay exponentially to zero.
+
+36:03.860 --> 36:07.100
+That is the entropy erasing the individual orbits.
+
+36:07.260 --> 36:07.560
+Exactly.
+
+36:08.180 --> 36:13.320
+But there is a second subspace, the peripheral or unimodular part of the spectra.
+
+36:13.420 --> 36:14.140
+The peripheral part.
+
+36:14.220 --> 36:14.520
+Yes.
+
+36:15.020 --> 36:19.040
+Observables that project onto this subspace do not mix and decay to zero.
+
+36:19.660 --> 36:22.420
+Instead, they evolve quasi-periodically.
+
+36:22.820 --> 36:26.820
+They are associated with the pure point spectrum of the operator.
+
+36:27.000 --> 36:28.060
+Quasi-periodically.
+
+36:28.060 --> 36:33.540
+So they might fluctuate, they might oscillate, but their underlying foundational energy doesn't
+
+36:33.540 --> 36:34.020
+dissipate.
+
+36:34.280 --> 36:34.440
+Right.
+
+36:34.660 --> 36:36.060
+It's like, tell me if this analogy worked.
+
+36:36.300 --> 36:38.920
+It's like striking a massive complex gong.
+
+36:39.020 --> 36:39.240
+Okay.
+
+36:39.300 --> 36:40.120
+I like where this is going.
+
+36:40.340 --> 36:46.000
+When you hit it, a lot of the sound instantly turns into a chaotic, unpredictable crash of
+
+36:46.000 --> 36:46.300
+noise.
+
+36:46.460 --> 36:47.280
+That's the mixing part.
+
+36:47.360 --> 36:48.240
+It dissipates quickly.
+
+36:48.460 --> 36:52.420
+But beneath the chaotic crash, there's a deep fundamental hum.
+
+36:52.420 --> 36:56.080
+A resonant frequency that belongs to the peripheral subspace.
+
+36:56.800 --> 37:01.440
+And that hum just rings out indefinitely, refusing to be erased.
+
+37:01.560 --> 37:04.380
+That is a highly accurate translation of the spectral mathematics.
+
+37:05.260 --> 37:10.620
+Theorem 1 rigorously proves that if the mathematical representation of the primordial distinction,
+
+37:11.160 --> 37:16.800
+our proto-halo's initial misalignment has even a non-zero projection onto that pure point
+
+37:16.800 --> 37:18.760
+peripheral spectral subspace.
+
+37:18.880 --> 37:19.200
+Then what?
+
+37:19.200 --> 37:24.080
+Then the time average squared autocorrelation will be strictly positive forever.
+
+37:24.480 --> 37:29.640
+The time average squared autocorrelation, meaning if you average out the chaotic bouncing around
+
+37:29.640 --> 37:34.360
+and the temporary fluctuations, the foundational relationship to the origin point mathematically
+
+37:34.360 --> 37:35.380
+cannot hit zero.
+
+37:35.480 --> 37:35.760
+Exactly.
+
+37:35.920 --> 37:38.820
+The fundamental hum of the gong never completely stops.
+
+37:38.980 --> 37:39.380
+Exactly.
+
+37:39.740 --> 37:44.800
+The instantaneous correlation might cross zero at a specific microsecond as the system oscillates,
+
+37:44.800 --> 37:48.160
+but the time average power of that memory remains positive.
+
+37:48.380 --> 37:48.880
+That is wild.
+
+37:48.880 --> 37:54.340
+It proves, mathematically, that a relational distinction can remain dynamically legible
+
+37:54.340 --> 37:59.640
+even as the vast majority of the galaxy's matter undergoes chaotic, irreversible mixing.
+
+38:00.320 --> 38:06.760
+The physical state is destroyed, but the mathematical hum of its origin persists eternally.
+
+38:06.880 --> 38:08.220
+This is genuinely beautiful.
+
+38:08.440 --> 38:14.340
+It is like finding a mathematical proof for an enduring memory encoded in the geometry of chaos itself.
+
+38:14.540 --> 38:15.640
+It's poetry, really.
+
+38:15.640 --> 38:16.180
+It is.
+
+38:16.500 --> 38:19.020
+So where does this leave us?
+
+38:19.560 --> 38:21.020
+We know galaxies, remember.
+
+38:21.300 --> 38:23.480
+We know how to find the proxy to observe it.
+
+38:23.640 --> 38:26.340
+We understand the physical mechanisms of gas dynamics,
+
+38:26.340 --> 38:29.920
+and we know the spectral math that guarantees its survival.
+
+38:30.300 --> 38:32.240
+What are the broader implications of this?
+
+38:32.320 --> 38:34.100
+Why does this matter for the future of astrophysics?
+
+38:34.100 --> 38:36.920
+It changes everything about how we use the cosmos.
+
+38:37.420 --> 38:40.100
+We are entering an era of cosmological archaeology.
+
+38:40.360 --> 38:41.540
+Cosmological archaeology.
+
+38:41.620 --> 38:41.740
+Yeah.
+
+38:42.000 --> 38:45.660
+We can now use massive galaxies not just as isolated objects to study,
+
+38:45.760 --> 38:47.480
+but as colossal ancient detectors.
+
+38:47.880 --> 38:50.300
+But if they are detecting the primordial tidal field,
+
+38:50.380 --> 38:52.360
+we already know about the primordial tidal field,
+
+38:52.500 --> 38:53.980
+what new things can they detect?
+
+38:53.980 --> 38:59.640
+They can detect properties of the universe that existed even before the tidal field was fully set.
+
+39:00.100 --> 39:03.860
+Flyxion specifically highlights an indirect inference channel.
+
+39:04.060 --> 39:05.520
+Okay, what does that mean in practice?
+
+39:05.820 --> 39:10.320
+For example, this framework could allow us to measure the mass of ancient neutrinos.
+
+39:10.400 --> 39:11.000
+Neutrinos.
+
+39:11.400 --> 39:16.900
+The ghostly, nearly massless particles that flood the universe but barely interact with anything.
+
+39:17.400 --> 39:19.480
+How could a galaxy tell us about a neutrino?
+
+39:19.480 --> 39:25.660
+Because massive neutrinos in the extremely early universe had very specific thermal velocities.
+
+39:26.100 --> 39:29.120
+They traveled so fast that they streamed out of dense regions,
+
+39:29.620 --> 39:33.560
+subtly smoothing out the primordial density field at certain measurable scales.
+
+39:33.740 --> 39:34.060
+Oh, I see.
+
+39:34.460 --> 39:37.880
+This subtle smoothing modified the primordial tidal field.
+
+39:38.280 --> 39:42.700
+And since we now know that the primordial tidal field dictates present-day galaxy spin
+
+39:42.700 --> 39:44.480
+and that this relational memory survives...
+
+39:45.160 --> 39:48.460
+We can use the subtle variations in the rotation of modern galaxies
+
+39:48.460 --> 39:52.400
+to retroactively measure the mass and behavior of ancient neutrinos.
+
+39:52.540 --> 39:52.920
+Exactly.
+
+39:53.040 --> 39:55.540
+We can weigh a ghostly particle from the dawn of time
+
+39:55.540 --> 39:58.480
+by looking at how a trillion-mass galaxy spins today.
+
+39:58.840 --> 40:00.780
+That is an astonishing chain of inference.
+
+40:01.120 --> 40:03.360
+It is the ultimate application of the theory.
+
+40:03.940 --> 40:08.140
+In Flyxion's framework, there are four conceptual types of cosmological remnants.
+
+40:08.480 --> 40:08.960
+What are they?
+
+40:08.960 --> 40:13.380
+You have state remnants, where the original configuration mostly survives,
+
+40:13.520 --> 40:14.980
+like the cosmic microwave background.
+
+40:14.980 --> 40:19.120
+You have statistical remnants, where only broad distributions survive.
+
+40:19.380 --> 40:19.600
+Okay.
+
+40:19.940 --> 40:24.020
+You have relational remnants, where a specific link between variables survives
+
+40:24.020 --> 40:25.780
+even if the original variables are lost,
+
+40:25.960 --> 40:30.340
+and dynamical remnants, where the survival is a signature of an ongoing process.
+
+40:30.700 --> 40:34.300
+And galactic spin is both a relational and dynamical remnant.
+
+40:34.580 --> 40:37.680
+It's the surviving relationship between the unobservable cookie dough
+
+40:37.680 --> 40:42.800
+and the unobservable cookie cutter, expressed dynamically as a persistent rotation.
+
+40:42.960 --> 40:43.580
+Precisely.
+
+40:43.840 --> 40:47.080
+The galaxy is effectively a lossy historical channel.
+
+40:47.320 --> 40:49.040
+Lossy, meaning it loses data.
+
+40:49.240 --> 40:49.500
+Right.
+
+40:50.020 --> 40:55.420
+It is heavily degraded, terribly noisy, absolutely battered by time, mergers, and entropy,
+
+40:55.900 --> 40:59.480
+but it is still transmitting a measurable signal from the beginning of time.
+
+40:59.720 --> 41:02.620
+It completely changes how you look up at the night sky.
+
+41:02.620 --> 41:07.580
+I mean, the next time you are out on a dark night looking at a faint smudge of light
+
+41:07.580 --> 41:11.060
+through a telescope that you know is a distant spiral galaxy,
+
+41:11.660 --> 41:14.560
+you aren't just looking at glowing gas and burning stars.
+
+41:14.820 --> 41:15.480
+No, you're not.
+
+41:15.660 --> 41:19.280
+You are looking at compressed, mathematically recoverable history.
+
+41:19.760 --> 41:22.640
+You are looking at a massive, battered receiver
+
+41:22.640 --> 41:26.640
+that is still saintly humming with the geometry of the early universe.
+
+41:26.840 --> 41:28.680
+It's an incredible perspective.
+
+41:28.680 --> 41:34.400
+To synthesize this incredible journey we've been on, galaxies do not keep their original matter.
+
+41:34.820 --> 41:39.340
+Their individual components are dispersed, shocked, and chaotically reorganized.
+
+41:39.520 --> 41:39.740
+Right.
+
+41:39.900 --> 41:41.460
+But they retain a structural memory.
+
+41:42.080 --> 41:47.340
+Through Shang's brilliant reconstructive proxies, achieving unprecedented seven sigma detections,
+
+41:47.520 --> 41:52.940
+and through Flyxion's rigorous application of repair without restoration and Koopman operators,
+
+41:53.120 --> 41:54.920
+we have learned something profound.
+
+41:55.220 --> 41:55.740
+Which is...
+
+41:55.740 --> 42:00.000
+The universe remembers relationships even when it completely scrambles the objects involved.
+
+42:00.740 --> 42:04.380
+Cosmology, as Flyxion notes, is the practice of mapping the shape of that survival.
+
+42:04.800 --> 42:07.600
+A spinning galaxy is carrying a message from the beginning of time.
+
+42:08.160 --> 42:13.920
+And today you learned exactly how the physics, the mathematics, and the observations all align to decode it.
+
+42:14.100 --> 42:14.580
+Exactly.
+
+42:14.580 --> 42:18.380
+The messy room never fully erases the canyon that the river carved.
+
+42:18.580 --> 42:20.800
+It is a phenomenal shift in perspective.
+
+42:21.040 --> 42:21.740
+It truly is.
+
+42:21.820 --> 42:27.580
+And I want to leave you, our listener, with the thought to mull over something that builds on the deep principles we've just unpacked.
+
+42:27.580 --> 42:35.680
+If astronomical structures as unimaginably massive, violent, and chaotic as galaxies can retain recoverable,
+
+42:36.220 --> 42:39.080
+geometric memories of their invisible, primordial environments,
+
+42:39.540 --> 42:45.960
+what subtle, unobservable historical fields are shaping the trajectories of our own local environments?
+
+42:45.960 --> 42:47.160
+That's a deep question.
+
+42:47.320 --> 42:52.120
+What ancient, invisible tides are shaping our biology, the structure of our societies,
+
+42:52.280 --> 42:55.200
+or even the trajectory of our own personal histories tides,
+
+42:55.400 --> 42:59.120
+that we simply haven't found the right reconstructable proxy to measure yet?
+
+42:59.700 --> 43:03.960
+Is the weather on the day you were born still subtly dictating how you stir your coffee,
+
+43:04.460 --> 43:07.980
+hidden in some deep, unimodular spectral frequency of your life?
+
+43:08.200 --> 43:11.440
+Keep questioning, keep digging, and we'll see you on the next Deep Dive.
+

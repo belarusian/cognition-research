@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.7.24)  7 AUG 2026 22:03
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.7.24)  8 AUG 2026 18:44
  restricted system commands enabled.
 **unreachable-futures.tex
 (./unreachable-futures.tex
@@ -456,32 +456,32 @@ Inserting `l3color' in `luaotfload.parse_color'.
 (./unreachable-futures.aux)
 \openout1 = unreachable-futures.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -525,22 +525,22 @@ e
 \Gin@req@height=\dimen188
 \Gin@req@width=\dimen189
 )
-LaTeX Info: Redefining \microtypecontext on input line 66.
-Package microtype Info: Applying patch `item' on input line 66.
-Package microtype Info: Applying patch `toc' on input line 66.
-Package microtype Info: Applying patch `eqnum' on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 56.
+Package microtype Info: Applying patch `item' on input line 56.
+Package microtype Info: Applying patch `toc' on input line 56.
+Package microtype Info: Applying patch `eqnum' on input line 56.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 66.
+Package microtype Warning: Unable to apply patch `footnote' on input line 56.
 
-Package microtype Info: Applying patch `verbatim' on input line 66.
+Package microtype Info: Applying patch `verbatim' on input line 56.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 66.
+LaTeX Info: Redefining \showhyphens on input line 56.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -548,7 +548,7 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 66.
+Package hyperref Info: Link coloring OFF on input line 56.
 
 (./unreachable-futures.out) (./unreachable-futures.out)
 \@outlinefile=\write3
@@ -593,7 +593,7 @@ Package hyperref Info: Link coloring OFF on input line 66.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -602,7 +602,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -621,7 +621,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.i'
 ] [2] [3] [4
 
 ]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 142
+LaTeX Font Info:    Trying to load font information for U+euf on input line 130
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
@@ -1727,55 +1727,55 @@ Chapter 3.
 [30
 
 ] [31] [32]
-Overfull \hbox (121.65518pt too wide) detected at line 1927
+Overfull \hbox (121.65518pt too wide) detected at line 1799
 [] \OMS/cmsy/m/n/10.95 ! [] ! [] ! [] ! []\OML/cmm/m/it/10.95 :
  []
 
-[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
 Chapter 4.
-[45
+[44
 
-] [46]
-Overfull \hbox (7.75935pt too wide) detected at line 2794
+] [45]
+Overfull \hbox (7.75935pt too wide) detected at line 2576
 [] \OMS/cmsy/m/n/10.95 ! [] ! [] ! [] ! [] ! []\OML/cmm/m/it/10.95 :
  []
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
+[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
 Chapter 5.
-[61
+[60
 
-] [62] [63] [64] [65] [66] [67] [68] [69]
-Overfull \hbox (0.16531pt too wide) detected at line 4361
+] [61] [62] [63] [64] [65] [66] [67] [68]
+Overfull \hbox (0.16531pt too wide) detected at line 3991
 []
  []
 
-[70] [71] [72] [73] [74] [75] [76] [77]
+[69] [70] [71] [72] [73] [74] [75]
 Chapter 6.
-[78
+[76
 
-] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]
-[93] [94]
+] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
+[91] [92]
 Chapter 7.
-[95
+[93
 
-] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107]
-[108] [109] [110] [111] [112] [113] [114] [115] [116]
+] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
+[107] [108] [109] [110] [111] [112]
 Chapter 8.
-[117
+[113
 
-] [118]
-Overfull \hbox (87.26167pt too wide) detected at line 7825
+] [114]
+Overfull \hbox (87.26167pt too wide) detected at line 6943
 []
  []
 
-[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
-[131] [132] [133] [134] [135] [136] [137] [138] [139] [140]
+[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126]
+[127] [128] [129] [130] [131] [132] [133] [134]
 Chapter 9.
-[141
+[135
 
-] [142] [143] [144]
+] [136] [137] [138]
 ! Undefined control sequence.
-l.9689 \Resp
+l.8477 \Resp
           _i(H)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1783,17 +1783,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[145] [146]
-Overfull \hbox (167.89551pt too wide) detected at line 9850
+[139] [140]
+Overfull \hbox (167.89551pt too wide) detected at line 8616
 \OML/cmm/m/it/10.95 P \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 F\OT1/cmr/m/n/10
 .95 ([]\OML/cmm/m/it/10.95 ; []; []; []; []; []; []; []\OT1/cmr/m/n/10.95 )\OML
 /cmm/m/it/10.95 :
  []
 
-[147] [148] [149]
+[141] [142]
 ! Undefined control sequence.
-l.10001 \CR
-         _i
+l.8753 \CR
+        _i
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1801,8 +1801,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.10011 The larger \(\CR
-                      _i\), the stronger the basis for claiming that actor \...
+l.8763 The larger \(\CR
+                     _i\), the stronger the basis for claiming that actor \(...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[143]
+! Undefined control sequence.
+<argument> \Resp 
+      
+l.8802 \widehat{\Resp}
+                    _i
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1812,8 +1824,17 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \Resp 
       
-l.10050 \widehat{\Resp}
-                     _i
+l.8802 \widehat{\Resp}
+                    _i
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8808 \Resp
+          _i.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1823,17 +1844,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \Resp 
       
-l.10050 \widehat{\Resp}
-                     _i
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.10056 \Resp
-           _i.
+l.8814 \widehat{\Resp}
+                    _i
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1843,8 +1855,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \Resp 
       
-l.10062 \widehat{\Resp}
-                     _i
+l.8814 \widehat{\Resp}
+                    _i
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1852,10 +1864,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<argument> \Resp 
-      
-l.10062 \widehat{\Resp}
-                     _i
+l.8816 \Resp
+          _i.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155]
+[156]
+! Undefined control sequence.
+l.9780 \Resp
+          (C)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1863,19 +1884,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.10064 \Resp
-           _i.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
-[162] [163]
-! Undefined control sequence.
-l.11116 \Resp
-           (C)
+l.9783 \Resp
+          _{\mathrm{individual}},
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1883,8 +1893,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.11119 \Resp
-           _{\mathrm{individual}},
+l.9784 \Resp
+          _{\mathrm{institutional}},
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1892,8 +1902,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.11120 \Resp
-           _{\mathrm{institutional}},
+l.9785 \Resp
+          _{\mathrm{systemic}},
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1901,59 +1911,50 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.11121 \Resp
-           _{\mathrm{systemic}},
+l.9786 \Resp
+          _{\mathrm{collective}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.11122 \Resp
-           _{\mathrm{collective}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[164] [165] [166] [167] [168] [169] [170] [171] [172]
+[157] [158] [159] [160] [161] [162] [163] [164]
 Chapter 10.
-[173
+[165
 
 ]
-Overfull \hbox (34.25267pt too wide) detected at line 11828
+Overfull \hbox (34.25267pt too wide) detected at line 10366
 []
  []
 
-[174] [175] [176] [177] [178] [179] [180] [181] [182]
-Overfull \hbox (21.02501pt too wide) detected at line 12512
+[166] [167] [168] [169] [170] [171] [172] [173] [174]
+Overfull \hbox (21.02501pt too wide) detected at line 10968
 []
  []
 
-[183] [184] [185]
-Overfull \hbox (25.53648pt too wide) detected at line 12747
+[175] [176] [177]
+Overfull \hbox (25.53648pt too wide) detected at line 11185
 []
  []
 
-[186] [187]
-Overfull \hbox (14.80019pt too wide) detected at line 12867
+[178]
+Overfull \hbox (14.80019pt too wide) detected at line 11303
 [] \OMS/cmsy/m/n/10.95 ! [] ! [] ! [] ! [] ! []\OML/cmm/m/it/10.95 :
  []
 
-[188] [189] [190]
-Overfull \hbox (8.82677pt too wide) detected at line 13116
+[179] [180] [181]
+Overfull \hbox (8.82677pt too wide) detected at line 11530
 []
  []
 
-[191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201]
+[182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192]
 Chapter 11.
-[202
+[193
 
-] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
+] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
 ! Undefined control sequence.
-l.14893 \Corr
+l.13075 \Corr
            (m,g)\downarrow
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1961,95 +1962,95 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[214] [215] [216] [217] [218] [219]
-Overfull \hbox (174.8761pt too wide) detected at line 15355
+[204] [205] [206] [207] [208] [209]
+Overfull \hbox (174.8761pt too wide) detected at line 13491
 []
  []
 
-[220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231]
-[232] [233] [234] [235] [236]
+[210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221]
+[222] [223] [224] [225]
 Chapter 12.
-[237
+[226
 
-] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248]
-[249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
-Overfull \hbox (47.14078pt too wide) detected at line 18407
+] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237]
+[238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+Overfull \hbox (47.14078pt too wide) detected at line 16247
 []
  []
 
-[260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271]
-[272] [273] [274] [275] [276] [277] [278] [279] [280]
-Overfull \hbox (52.51727pt too wide) detected at line 20044
+[248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
+[260] [261] [262] [263] [264] [265] [266] [267]
+Overfull \hbox (52.51727pt too wide) detected at line 17884
 []
  []
 
-[281] [282] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292]
-[293] [294] [295] [296]
-Overfull \hbox (54.79489pt too wide) detected at line 21247
+[268] [269] [270] [271] [272] [273] [274] [275] [276] [277] [278] [279]
+[280] [281] [282] [283]
+Overfull \hbox (54.79489pt too wide) detected at line 19087
 []
  []
 
-[297] [298] [299]
+[284] [285] [286]
 Chapter 13.
-[300
+[287
 
-] [301] [302] [303] [304] [305] [306] [307] [308] [309] [310] [311]
-[312] [313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323]
-[324] [325]
-Overfull \hbox (9.36304pt too wide) detected at line 22877
+] [288] [289] [290] [291] [292] [293] [294] [295] [296] [297] [298]
+[299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309] [310]
+[311] [312]
+Overfull \hbox (9.36304pt too wide) detected at line 20717
 [] \OMS/cmsy/m/n/10.95 ! [] ! [] ! [] ! []\OML/cmm/m/it/10.95 :
  []
 
-[326] [327] [328] [329] [330] [331] [332] [333] [334] [335] [336] [337]
-[338] [339] [340] [341] [342] [343]
-Overfull \hbox (36.69452pt too wide) detected at line 23977
+[313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324]
+[325] [326] [327] [328] [329] [330]
+Overfull \hbox (36.69452pt too wide) detected at line 21817
 []
  []
 
-[344] [345] [346] [347]
-Overfull \hbox (349.55789pt too wide) detected at line 24191
+[331] [332] [333] [334]
+Overfull \hbox (349.55789pt too wide) detected at line 22031
 []
  []
 
-[348] [349] [350] [351] [352] [353] [354] [355] [356] [357] [358] [359]
-[360] [361] [362] [363] [364] [365] [366] [367] [368] [369] [370] [371]
-[372] [373] [374]
-Overfull \hbox (182.58139pt too wide) detected at line 25739
+[335] [336] [337] [338] [339] [340] [341] [342] [343] [344] [345] [346]
+[347] [348] [349] [350] [351] [352] [353] [354] [355] [356] [357] [358]
+[359] [360] [361]
+Overfull \hbox (182.58139pt too wide) detected at line 23579
 []
  []
 
-[375] [376]
-Overfull \hbox (406.49799pt too wide) detected at line 25823
+[362] [363]
+Overfull \hbox (406.49799pt too wide) detected at line 23663
 []
  []
 
-[377] [378] [379] [380] [381] [382] [383] [384] [385] [386] [387] [388]
-[389] [390]
+[364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374] [375]
+[376] [377]
 Chapter 14.
-[391
+[378
 
-] [392] [393] [394] [395] [396] [397] [398] [399] [400] [401] [402]
+] [379] [380] [381] [382] [383] [384] [385] [386] [387] [388] [389]
 Chapter 15.
-[403
+[390
 
-] [404] [405] [406] [407] [408] [409] [410] [411] [412] [413] [414]
-[415] [416]
-Overfull \hbox (23.25958pt too wide) detected at line 28064
+] [391] [392] [393] [394] [395] [396] [397] [398] [399] [400] [401]
+[402] [403]
+Overfull \hbox (23.25958pt too wide) detected at line 25904
 [] \OMS/cmsy/m/n/10.95 ! [] ! [] ! [] ! [] ! [] ! []\OML/cmm/m/it/10.95 :
  []
 
-[417] [418] [419
+[404] [405] [406
 
-] [420] [421] [422] [423] [424] [425] [426] [427] [428]
-[429]
+] [407] [408] [409] [410] [411] [412] [413] [414] [415]
+[416]
 Appendix A.
-[430
+[417
 
-] [431] [432] [433] [434] [435] [436] [437] [438] [439] [440] [441]
-[442] [443] [444] [445] [446] [447] [448] [449] [450] [451
+] [418] [419] [420] [421] [422] [423] [424] [425] [426] [427] [428]
+[429] [430] [431] [432] [433] [434] [435] [436] [437] [438
 
-] [452] [453]
-[454] [455] [456] [457] [458] [459] [460] [461] [462] [463] [464] [465]
+] [439] [440]
+[441] [442] [443] [444] [445] [446] [447] [448] [449] [450] [451] [452]
 (./unreachable-futures.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2061,7 +2062,7 @@ Package rerunfilecheck Info: File `unreachable-futures.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18776 strings out of 476553
+ 18763 strings out of 476553
  125236,1977958 words of node,token memory allocated
  10155 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 23
@@ -2091,10 +2092,10 @@ ype1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/symbols/msbm10.pfb>
-Output written on unreachable-futures.pdf (491 pages, 1556292 bytes).
+Output written on unreachable-futures.pdf (478 pages, 1556794 bytes).
 
-PDF statistics: 7042 PDF objects out of 7423 (max. 8388607)
- 6446 compressed objects within 65 object streams
- 1745 named destinations out of 2073 (max. 131072)
+PDF statistics: 6988 PDF objects out of 7423 (max. 8388607)
+ 6405 compressed objects within 65 object streams
+ 1732 named destinations out of 2073 (max. 131072)
  7009 words of extra memory for PDF output out of 10000 (max. 100000000)
 
