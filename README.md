@@ -1,5 +1,6 @@
 [Primordial Distinctions in Cosmological Memory](https://standardgalactic.github.io/cognition-research/cosmological-memory.pdf)
 
+[Persistence Without Reachability](https://standardgalactic.github.io/cognition-research/persistence-without-reachability.pdf)
 
 [The Sociology of Unreachable Futures](https://standardgalactic.github.io/cognition-research/unreachable-futures.pdf)
 
